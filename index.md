@@ -1,4 +1,4 @@
-[Home](https://faizmd12.github.io/secondweb/) | [About](https://github.com/faizmd12/secondweb/blob/master/about.md)
+[Home](https://faizmd12.github.io/secondweb/) | [About](https://faizmd12.github.io/secondweb/about.md)
 
 ## Welcome to GitHub Pages
 
